@@ -27,12 +27,12 @@ Selain sebagai tugas Ujian Tengah Semester (UTS), repository ini juga menjadi po
 | Pertemuan | Topik | Notebook GitHub | Google Colab |
 |-----------|--------|----------------|--------------|
 | 1 | Pengenalan Data Science | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan1_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/1iuuvM5qhLrypemrc5hyZF4gaiiaRKP2K?usp=sharing) |
-| 2 | Statistika Dasar dan Analisis Data | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan2_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/1CpTmFMWneM8Y_n9eHlGXUM02tE6bzetR?usp=sharing) |
-| 3 | Data Cleaning dan Data Preprocessing | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan3_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/1tmbrUhJNB3UbfPxR_3i5mtwBgbpG1pvk?usp=sharing) |
-| 4 | Analisis Data dengan Pandas dan NumPy | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan4_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/10NMaIhpYlRIzJUhWXIU1px9-PiaBvdWf?usp=sharing) |
-| 5 | Visualisasi Data Menggunakan Matplotlib dan Seaborn | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan5_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/1e5yCLQc19RRpV1ZaAEjhLrrzl1sBTwzD?usp=sharing) |
-| 6 | Pengantar Machine Learning: Regresi Linear | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan6_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/1Y2F00OMVGv5YOLwmwb0rsMYt4kTrn9Dt?usp=sharing) |
-| 7 | Evaluasi dan Interpretasi Model Machine Learning | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan7_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/1_D6uw6byn_9CG1CYVIM6mX6Jl6qjTCe8?usp=sharing) |
+| 2 | Struktur Data Python, NumPy & Pandas | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan2_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/1CpTmFMWneM8Y_n9eHlGXUM02tE6bzetR?usp=sharing) |
+| 3 | Data Cleaning: Missing, Outlier & Ekstraksi | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan3_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/1tmbrUhJNB3UbfPxR_3i5mtwBgbpG1pvk?usp=sharing) |
+| 4 | Statistika Dasar & Analisis Data | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan4_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/10NMaIhpYlRIzJUhWXIU1px9-PiaBvdWf?usp=sharing) |
+| 5 | Visualisasi Data | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan5_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/1e5yCLQc19RRpV1ZaAEjhLrrzl1sBTwzD?usp=sharing) |
+| 6 | Persiapan Datar | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan6_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/1Y2F00OMVGv5YOLwmwb0rsMYt4kTrn9Dt?usp=sharing) |
+| 7 | Pengantar Machine Learning: Regresi Linierg | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan7_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/1_D6uw6byn_9CG1CYVIM6mX6Jl6qjTCe8?usp=sharing) |
 
 ---
 
