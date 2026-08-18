@@ -33,7 +33,7 @@ Selain sebagai tugas Ujian Tengah Semester (UTS), repository ini juga menjadi po
 | 5 | Visualisasi Data | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan5_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/1e5yCLQc19RRpV1ZaAEjhLrrzl1sBTwzD?usp=sharing) |
 | 6 | Persiapan Data | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan6_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/1Y2F00OMVGv5YOLwmwb0rsMYt4kTrn9Dt?usp=sharing) |
 | 7 | Pengantar Machine Learning: Regresi Linierg | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan7_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/1_D6uw6byn_9CG1CYVIM6mX6Jl6qjTCe8?usp=sharing) |
-| 9 | Algoritma Klasifikasi (Bagian 1) | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan9_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/1PEE_DdkZqRpH3qVmswXutWfA3u2hw71h) |
+| 9 | Algoritma Klasifikasi (Bagian 1) | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan9_Sherly%20Eka%20Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/1PEE_DdkZqRpH3qVmswXutWfA3u2hw71h) |
 | 10 | Algoritma Klasifikasi (Bagian 2): Ensemble | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan10_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/1PEE_DdkZqRpH3qVmswXutWfA3u2hw71h) |
 
 ---
