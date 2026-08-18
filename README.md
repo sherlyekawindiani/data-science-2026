@@ -35,6 +35,9 @@ Selain sebagai tugas Ujian Tengah Semester (UTS), repository ini juga menjadi po
 | 7 | Pengantar Machine Learning: Regresi Linierg | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan7_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/1_D6uw6byn_9CG1CYVIM6mX6Jl6qjTCe8?usp=sharing) |
 | 9 | Algoritma Klasifikasi (Bagian 1) | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan9_Sherly%20Eka%20Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/1PEE_DdkZqRpH3qVmswXutWfA3u2hw71h) |
 | 10 | Algoritma Klasifikasi (Bagian 2): Ensemble | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan10_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/1PEE_DdkZqRpH3qVmswXutWfA3u2hw71h) |
+| 11 | Unsupervised Learning:Clustering (K-Means & Hierarchical) | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan11_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/14Xj_30506MEgKspFvtTaK2DjnRrmDZEh) |
+| 12 | Asosiasi Data & Sistem Rekomendasi | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan12_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/1BdQnZsOkMPN9WP96y1DBxVUUTi8GlQoC) |
+| 13 | Pengantar Deep Learning & NLP Dasar | [GitHub](https://github.com/sherlyekawindiani/data-science-2026/blob/master/Pertemuan13_Sherly_Eka_Windiani_240401010222.ipynb) | [Colab](https://colab.research.google.com/drive/1SLUjq_WROxJHesQy90FvVDtJhM17d1mn) |
 
 ---
 
