@@ -14,11 +14,11 @@
 
 Halo! Saya Sherly Eka Windiani, mahasiswa Program Studi Informatika Universitas Siber Asia yang sedang mempelajari bidang Data Science.
 
-Repository ini dibuat sebagai dokumentasi perjalanan belajar saya selama mengikuti mata kuliah Data Science pada Semester Genap Tahun Akademik 2025/2026. Seluruh notebook yang terdapat di dalam repository ini merupakan hasil pengerjaan aktivitas hands-on dan praktikum dari Pertemuan 1 hingga Pertemuan 7.
+Repository ini dibuat sebagai dokumentasi perjalanan belajar saya selama mengikuti mata kuliah Data Science pada Semester Genap Tahun Akademik 2025/2026. Seluruh notebook yang terdapat di dalam repository ini merupakan hasil pengerjaan aktivitas hands-on dan praktikum dari Pertemuan 1 hingga Pertemuan 13.
 
-Melalui berbagai praktikum yang telah dikerjakan, saya mempelajari dasar-dasar Data Science mulai dari pengenalan Python untuk analisis data, manipulasi data menggunakan Pandas dan NumPy, visualisasi data menggunakan Matplotlib dan Seaborn, hingga penerapan proses data cleaning dan analisis data.
+Melalui berbagai praktikum yang telah dikerjakan, saya mempelajari alur lengkap Data Science, mulai dari pengolahan data dasar dengan Python, visualisasi, hingga teknik Machine Learning tingkat lanjut seperti Ensemble Learning, Clustering, Association Rule Mining, sistem rekomendasi, serta pengenalan Deep Learning dan NLP.
 
-Selain sebagai tugas Ujian Tengah Semester (UTS), repository ini juga menjadi portofolio pembelajaran yang menunjukkan perkembangan pemahaman dan keterampilan saya dalam bidang Data Science.
+Repository ini menjadi portofolio pembelajaran yang menunjukkan perkembangan keterampilan saya dalam mengolah data menjadi informasi yang bermanfaat bagi pengambilan keputusan.
 
 ---
 
@@ -102,10 +102,12 @@ Melalui pembelajaran ini, saya berharap dapat meningkatkan kemampuan analisis da
 
 ## Kesimpulan Perjalanan Belajar Pertemuan 1–7
 
-Selama mengikuti praktikum Data Science dari Pertemuan 1 hingga Pertemuan 7, saya memperoleh pemahaman mengenai tahapan dasar dalam proses analisis data. Saya mempelajari cara mengumpulkan, membersihkan, mengolah, menganalisis, dan memvisualisasikan data menggunakan berbagai library Python yang umum digunakan dalam dunia Data Science.
+Sepanjang semester ini, saya telah menempuh perjalanan belajar yang komprehensif dalam bidang Data Science. Dimulai dari penguasaan data wrangling dan visualisasi, saya kemudian mendalami Supervised Learning melalui regresi dan klasifikasi (termasuk teknik ensemble yang lebih canggih). Selanjutnya, saya beralih ke Unsupervised Learning untuk menemukan pola tersembunyi melalui clustering dan aturan asosiasi. Di akhir rangkaian praktikum, saya diperkenalkan pada dunia AI modern melalui konsep Deep Learning dan dasar-dasar Natural Language Processing (NLP).
 
-Selain itu, saya juga mulai mengenal konsep dasar Machine Learning melalui penerapan model regresi linear serta cara melakukan evaluasi terhadap model yang dibuat. Pengalaman praktikum ini memberikan pemahaman yang lebih baik mengenai bagaimana data digunakan untuk menghasilkan informasi dan mendukung pengambilan keputusan berbasis data.
+Pengalaman ini telah membentuk pola pikir analitis dan teknis yang kuat, mempersiapkan saya untuk menghadapi tantangan data dunia nyata di masa depan.
+
+
 
 ---
 
-Repository ini dibuat untuk memenuhi tugas Ujian Tengah Semester (UTS) Mata Kuliah Data Science Semester Genap Tahun Akademik 2025/2026 Universitas Siber Asia.
+Repository ini dibuat sebagai bentuk pemenuhan tugas mata kuliah Data Science Semester Genap Tahun Akademik 2025/2026 Universitas Siber Asia.
